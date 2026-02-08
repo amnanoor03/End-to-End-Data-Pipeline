@@ -1,4 +1,0 @@
-.env
-__pycache__/
-*.parquet
-.idea/# created by virtualenv automatically
